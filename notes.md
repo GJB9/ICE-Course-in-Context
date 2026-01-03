@@ -3,3 +3,5 @@ Git concepts covered:
 - Commits
 - Branches
 - Push and pull
+- Merge conflicts
+- Staging area
